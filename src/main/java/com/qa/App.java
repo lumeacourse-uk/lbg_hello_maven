@@ -17,6 +17,7 @@ public class App
         System.out.println(sayHelloToSomeone("Zena"));
         System.out.println(sayHelloToSomeone("Everyone!!!"));
         System.out.println(sayHelloToSomeone("Line to show that Ive updated the code"));
+        System.out.println(sayHelloToSomeone("Lu !!!"));
                 System.out.println(sayGoodbye());
     }
 
